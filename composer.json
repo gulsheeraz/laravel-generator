@@ -55,5 +55,6 @@
                 "\\InfyOm\\Generator\\InfyOmGeneratorServiceProvider"
             ]
         }
-    }    
+    },
+	"minimum-stability": "dev"
 }
